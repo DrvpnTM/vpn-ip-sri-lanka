@@ -1,18 +1,17 @@
-# VPN IP Sri Lanka — Dr VPN
+# VPN IP Sri Lanka — Fast, Secure VPN for Sri Lanka
 
-**VPN IP Sri Lanka** is a fast, secure and free VPN for Android. Get a **Sri Lanka IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Sri Lanka** is a free, open-source, ad-free VPN app for Android, built for users in Sri Lanka. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Sri Lanka (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_lk_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-sri-lanka/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Sri Lanka IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Sri Lanka, Sri Lanka VPN, VPN IP Sri Lanka, Sri Lanka IP address, free VPN Sri Lanka, buy VPN Sri Lanka, fast VPN Sri Lanka, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Sri Lanka, free VPN Sri Lanka, fast VPN, VPN IP Sri Lanka, Android VPN, unblock websites Sri Lanka.</sub>
